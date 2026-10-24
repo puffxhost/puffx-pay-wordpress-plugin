@@ -93,7 +93,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 Need help or want to report an issue?<br>
 🌐 Website: <a href="https://puffxhost.com/contact" target="_blank">https://puffxhost.com/contact</a><br>
 📧 Email: <a href="mailto:support@puffxhost.in">support@puffxhost.in</a><br>
-📞 WhatsApp: <a href="https://wa.me/918602967573" target="_blank">+91 8602967573</a>
+📞 Call: <a href="https://wa.me/918602967573" target="_blank">+91 8602967573</a><br>
+💬 WhatsApp: <a href="https://wa.me/917354336624" target="_blank">+91 7354336624</a>
 </p>
 
 <h2>📜 License</h2>
@@ -111,15 +112,3 @@ This plugin is licensed under the <strong>MIT License</strong> – you are free 
 <p align="center">
   Developed with ❤️ by <strong>Nitin Mehta</strong>
 </p>
-
-### Additional contact details
-
-- 💬 WhatsApp: [+91 7354336624](https://wa.me/917354336624)
-
-## 🙌 Contributing
-
-Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
-
-## ⭐️ Give a Star
-
-If you found this project useful, please consider giving it a star on GitHub to support its development.
