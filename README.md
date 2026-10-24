@@ -111,3 +111,15 @@ This plugin is licensed under the <strong>MIT License</strong> – you are free 
 <p align="center">
   Developed with ❤️ by <strong>Nitin Mehta</strong>
 </p>
+
+### Additional contact details
+
+- 💬 WhatsApp: [+91 7354336624](https://wa.me/917354336624)
+
+## 🙌 Contributing
+
+Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
+
+## ⭐️ Give a Star
+
+If you found this project useful, please consider giving it a star on GitHub to support its development.
